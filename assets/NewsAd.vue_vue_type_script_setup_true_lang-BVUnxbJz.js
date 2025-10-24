@@ -1,4 +1,4 @@
-import{a as n,b as m,c}from"./ad_img_03-6vk4nBRx.js";import{d as h,g as l,c as y,o as g,a as t,n as p,u as i,t as a,_,f as T,w as v}from"./index-DQSb0POV.js";import{B as f}from"./BasicAd-C_2EHUmT.js";const e=`<div>
+import{a as n,b as m,c}from"./ad_img_03-6vk4nBRx.js";import{d as h,g as l,c as y,o as g,a as t,n as p,u as i,t as a,_,f as T,w as v}from"./index-D6SQU_0B.js";import{B as f}from"./BasicAd-Ezl9ux95.js";const e=`<div>
     <p>
         As the sister company of ACR Towers, BWI manages and operates both physical and digital media channels — from iconic
         LED facades and in-mall activations to property apps and e-commerce platforms.
